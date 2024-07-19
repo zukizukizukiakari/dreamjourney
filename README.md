@@ -6,7 +6,7 @@
 存在为了剧情服务的自设，occ，bug等情况  
 不是前作但稍微有联动之前写的[《思春期》](https://github.com/zukizukizukiakari/Goldship)，不看也不影响本作阅读！  
 
-本文的电梯~  
+本文的电梯！作者的一点md语法复健而已，右上可以选择章节w  
 [01](https://github.com/zukizukizukiakari/dreamjourney#01)||[02](https://github.com/zukizukizukiakari/dreamjourney#02)||[03](https://github.com/zukizukizukiakari/dreamjourney#03)||[04](https://github.com/zukizukizukiakari/dreamjourney#04)||[05](https://github.com/zukizukizukiakari/dreamjourney#05)||[06](https://github.com/zukizukizukiakari/dreamjourney#06)||[07](https://github.com/zukizukizukiakari/dreamjourney#07)||[08](https://github.com/zukizukizukiakari/dreamjourney#08)||[09](https://github.com/zukizukizukiakari/dreamjourney#09)||[10](https://github.com/zukizukizukiakari/dreamjourney#10)  
 [11](https://github.com/zukizukizukiakari/dreamjourney#11)||[12](https://github.com/zukizukizukiakari/dreamjourney#12)||[13](https://github.com/zukizukizukiakari/dreamjourney#13)||[14](https://github.com/zukizukizukiakari/dreamjourney#14)||[15](https://github.com/zukizukizukiakari/dreamjourney#15)||[16](https://github.com/zukizukizukiakari/dreamjourney#16)||[17](https://github.com/zukizukizukiakari/dreamjourney#17)||[18](https://github.com/zukizukizukiakari/dreamjourney#18)||[19](https://github.com/zukizukizukiakari/dreamjourney#19)
 
@@ -250,7 +250,7 @@
 这下训练员彻底把那句突然的赞美抛在了脑后，刚才因为摸梦之旅耳朵消失的紧张感又回到她的身体里。  
 她好不容易才让自己忽略掉两人没穿衣服的事实，现在又让她想起来是闹哪样啦！  
   
-#  08
+##  08
 训练员满怀忐忑地帮梦之旅洗完了头发，她用过护发素的长发柔顺又光亮，像绸缎一样美丽。  
 她还挺满意自己的劳动成果的，三两下就帮梦之旅把头发包在毛巾里，又能笑得出来了：“好了！”  
 梦之旅一回头就看到自家训练员笑意盈盈地合着掌，她平时高兴的时候也很喜欢做这个动作，只是现在这个场景，多少有点让人不好集中注意力看她的笑脸。  
@@ -669,7 +669,7 @@
 和那些被资质和光环迷花了眼的人不同，训练员看到了小小的她。  
 她永远都在注视着她。  
   
-#  18
+##  18
 由于梦之旅的激素水平逐渐趋于正常，她们最后这三天没有一直待在旅馆里，而是逐步恢复了训练。  
 大家对思春期都见怪不怪的，只是梦之旅这样的优等生激素水平居然如此反常，这就比较稀奇了。  
 “小金船的宝藏雷达察觉到了好东西的气息！”一般路过黄金船掏出一盒炒面，莫名其妙地塞给梦之旅，“宝藏有恶龙在守护！识时务的小金船决定给阿旅上供♪”  
